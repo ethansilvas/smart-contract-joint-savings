@@ -18,15 +18,12 @@ This is a Python 3.7 project ran using the following dependencies:
 
 ---
 
-## Installation Guide
+## Installation and Usage
 
+To use this contract yourself you can simply upload the [joint_savings.sol](./joint_savings.sol) solidity smart contract to [Remix](https://remix.ethereum.org/). Select the "0.5.0+commit.1d4f565a" compiler to compile the smart contract and the "Remix VM (London)" to deploy the contract in your environment. 
 
-
----
-
-## Usage
-
-
+![Compile with 0.5.0+commit.1d4f565a compiler](./Resources/compile.png)
+![Deploy on Remix VM (London) EVM](./Resources/deploy.png)
 
 ---
 
