@@ -6,7 +6,21 @@ This project is my Solidity smart contract that serves as a joint savings accoun
 
 ## Summary
 
+Using [Remix](https://remix.ethereum.org/), this smart contract can be compiled and deployed into an Ethereum VM that allows you to run each of its functions.
 
+![Screenshot of Remix UI with setAccounts, withdraw, contractBalance, lastToWithdraw, and lastWithdraw functions](./Resources/contract_functions.png)
+
+In the Remix UI you will first need to set each of the accounts that are a part of the joint account. 
+
+![Screenshot of set account function with two ethereum addresses being used](./Resources/set_accounts.png)
+
+Using the `deposit` function in Remix will fund the savings account.
+
+![Remix deposit UI function](./Resources/deposit.png)
+
+With Ether in the savings account you can then use the smart contracts functions to withdraw Ether into each of the Ethereum accounts and then verify the balances of each account as well as which account was the last to withdraw. 
+
+![Gif showing using remix UI to send ethereum transaction](./Resources/send_transaction.gif)
 
 ---
 
