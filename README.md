@@ -1,6 +1,6 @@
 # Smart Contract Joint Savings Account - UW FinTech BootCamp Module 20 Challenge
 
-
+This project is my Solidity smart contract that serves as a joint savings account between two Ethereum addresses. There is functionality to deposit, withdraw, set each account address, and validate that the correct addresses are used when calling the contract functions. 
 
 ---
 
